@@ -1,6 +1,6 @@
 # Ember-logger
 
-This README outlines the details of collaborating on this Ember addon.
+Cloud logging for Ember apps.
 
 ## Installation
 

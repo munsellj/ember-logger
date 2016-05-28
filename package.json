@@ -1,7 +1,7 @@
 {
   "name": "ember-logger",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Cloud logging for Ember apps.",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -11,7 +11,7 @@
     "start": "ember server",
     "test": "ember try:testall"
   },
-  "repository": "",
+  "repository": "https://github.com/munsellj/ember-logger",
   "engines": {
     "node": ">= 0.10.0"
   },
@@ -40,7 +40,10 @@
     "loader.js": "^4.0.0"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "logger",
+    "logging",
+    "debug"
   ],
   "dependencies": {
     "ember-cli-babel": "^5.1.5"
